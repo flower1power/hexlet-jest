@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "tests on jest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LV",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flower1power/hexlet-git"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
